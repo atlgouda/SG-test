@@ -335,6 +335,11 @@ html {
     margin: 0 auto;
 }
 
+.blog__body-wrap {
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
 
 
 
@@ -398,6 +403,11 @@ html {
         padding-bottom: 40px;
     }
 
+    .blog__body-wrap {
+        padding-top: 150px;
+        padding-bottom: 200px;
+    }
+
 }
 
 
@@ -457,12 +467,13 @@ html {
         padding: 17px 0;
     }
 
-    .sg__title-image-wrap {
-        // max-width: 60%;
-    }
-
     .sg__subtitle-image-wrap {
         max-width: 50%;
+    }
+
+    .blog__body-wrap {
+        padding-top: 150px;
+        padding-bottom: 200px;
     }
 
 }
@@ -522,6 +533,11 @@ html {
     .sg__section {
         padding-bottom: 120px;
         margin-bottom: 120px;
+    }
+
+    .blog__body-wrap {
+        padding-top: 150px;
+        padding-bottom: 200px;
     }
 
 }
